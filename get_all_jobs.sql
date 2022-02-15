@@ -1,0 +1,1 @@
+select *, ( select name from lk_countries lc where lc.id = )
